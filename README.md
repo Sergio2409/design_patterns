@@ -16,12 +16,15 @@ All patterns can be categorized by three main groups of patterns:
 Patterns included
 ------------------
 + Creational patterns
-  - Singleton [Python]
+  + [Singleton](https://github.com/Sergio2409/design_patterns/blob/master/creational/singleton/doc.md) [Python]
 + Structural patterns
-  + Template Method [Python]
+  + [Adapter](https://github.com/Sergio2409/design_patterns/blob/master/structural/adapter/doc.md) [Python]
 + Behavioral patterns
-  + Adapter [Python]
-  + Observer [Python]
+  + [Template Method](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/template_method/doc.md) [Python]
+  + [Observer](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/observer/doc.md) [Python]
+  + [Strategy](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/strategy/doc.md) [Python]
++ SOLID
+  + [Dependency Inversion](https://github.com/Sergio2409/design_patterns/blob/master/solid/dependency_inversion/doc.md) [Python]
 
 
 -------------------------------------------------------------------------
