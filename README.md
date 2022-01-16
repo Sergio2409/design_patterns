@@ -44,3 +44,10 @@ usually present in a pattern description:
 + Code example in one of the popular programming languages makes it easier to grasp the idea behind the pattern.
 
     [Read More...](https://refactoring.guru/design-patterns/what-is-pattern)
+
+
+References
+----------
+1. [Arjan Codes YouTube Series {Software Design in Python}.](https://refactoring.guru/design-patterns/what-is-pattern) 
+2. [Design Principles and Patterns Book](http://staff.cs.utu.fi/~jounsmed/doos_06/material/DesignPrinciplesAndPatterns.pdf)
+3. [Refactoring Guru Website](https://refactoring.guru/)
