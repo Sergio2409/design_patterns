@@ -45,7 +45,6 @@ usually present in a pattern description:
 
     [Read More...](https://refactoring.guru/design-patterns/what-is-pattern)
 
-
 References
 ----------
 1. [Arjan Codes YouTube Series {Software Design in Python}.](https://refactoring.guru/design-patterns/what-is-pattern) 
