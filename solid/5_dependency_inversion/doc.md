@@ -8,8 +8,6 @@ Definition
    not on concretions. It states that the high-level module must not depend on
    the low-level module, but they should depend on abstractions.
 
-    [Read More...](https://refactoring.guru/design-patterns/singleton)
-
 
 2. Dependency Inversion is the strategy of depending upon interfaces or 
    abstract functions and classes, rather than upon concrete functions and 
