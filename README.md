@@ -19,12 +19,17 @@ Patterns included
   + [Singleton](https://github.com/Sergio2409/design_patterns/blob/master/creational/singleton/doc.md) [Python]
 + Structural patterns
   + [Adapter](https://github.com/Sergio2409/design_patterns/blob/master/structural/adapter/doc.md) [Python]
+  + [Bridge](https://github.com/Sergio2409/design_patterns/blob/master/structural/bridge/doc.md) [Python]
 + Behavioral patterns
   + [Template Method](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/template_method/doc.md) [Python]
   + [Observer](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/observer/doc.md) [Python]
   + [Strategy](https://github.com/Sergio2409/design_patterns/blob/master/behavioral/strategy/doc.md) [Python]
 + SOLID
-  + [Dependency Inversion](https://github.com/Sergio2409/design_patterns/blob/master/solid/dependency_inversion/doc.md) [Python]
+  + [Single Responsibility](https://github.com/Sergio2409/design_patterns/blob/master/solid/1_single_responsibility/doc.md) [Python]
+  + [Open Closed](https://github.com/Sergio2409/design_patterns/blob/master/solid/2_open_closed/doc.md) [Python]
+  + [Liskov Substitution](https://github.com/Sergio2409/design_patterns/blob/master/solid/3_liskov_substitution/doc.md) [Python]
+  + [Interface Segregation](https://github.com/Sergio2409/design_patterns/blob/master/solid/4_interface_segregation/doc.md) [Python]
+  + [Dependency Inversion](https://github.com/Sergio2409/design_patterns/blob/master/solid/5_dependency_inversion/doc.md) [Python]
 
 
 -------------------------------------------------------------------------
