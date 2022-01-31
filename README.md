@@ -17,6 +17,7 @@ Patterns included
 ------------------
 + Creational patterns
   + [Singleton](https://github.com/Sergio2409/design_patterns/blob/master/creational/singleton/doc.md) [Python]
+  + [Factory Method](https://github.com/Sergio2409/design_patterns/blob/master/creational/factory_method/doc.md) [Python]
 + Structural patterns
   + [Adapter](https://github.com/Sergio2409/design_patterns/blob/master/structural/adapter/doc.md) [Python]
   + [Bridge](https://github.com/Sergio2409/design_patterns/blob/master/structural/bridge/doc.md) [Python]
